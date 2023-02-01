@@ -1,0 +1,19 @@
+{
+  "name": "verysimplenode2",
+  "version": "1.0.0",
+  "description": "Im new to frameworks, git, ive been learning to code for some time but now i learn more. </br>\r Trying to do some exercies or apply knowledge from different languages every time I have some time for it. </br>\r So that I will get better at doing things </br>\r Dont mind it. I will probably make most of those repos private eventually.</br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konrad-Jalowy/verysimplenode2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Konrad-Jalowy/verysimplenode2/issues"
+  },
+  "homepage": "https://github.com/Konrad-Jalowy/verysimplenode2#readme"
+}
